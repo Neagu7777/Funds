@@ -1,0 +1,10 @@
+FUND: German Federal Pension Insurance Fund, true
+FUND: German pension fund for miners, railway workers and seafarers, true
+FUND: Northern branch of the German Pension Insurance Fund, false
+FUND: Southern branch of the German Pension Insurance Fund, true
+FUND: German private pension fund for foreigners, true
+FUND: German private pension fund, true
+FUND: German pension fund for workers in production, true
+FUND: German Pension Fund for Metallurgical Workers, false
+FUND: German pension fund for medical workers, false
+FUND: German private pension insurance fund with benefits for employees working in difficult working conditions, true
